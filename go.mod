@@ -1,3 +1,3 @@
-module github.com/plasmaduster355/quicktradebot/indicators/stocks
+module github.com/plasmaduster355/stocks
 
 go 1.15
